@@ -51,7 +51,7 @@ class Calculator {
                 computation = previous * current
                 break
 
-            case '&divide;':
+            case '÷':
                 computation = previous / current
                 break
 
